@@ -10,5 +10,6 @@
 
 # Iniciando
 1. Rode <code>docker-compose up</code> dentro da raiz do projeto.
-2. Rode <code>yarn</code> dentro da pasta consumer, para instalar as dependências do node.
-3. Rode o spring-boot para iniciar o producer 
+2. Rode o spring-boot para iniciar o producer.
+3. Rode <code>yarn</code> dentro da pasta consumer, para instalar as dependências do node.
+4. Rode <code>yarn dev</code> para iniciar o node
